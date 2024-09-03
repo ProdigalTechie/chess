@@ -13,7 +13,7 @@ Find me on [X](https://x.com/ProdigalTechie), [YouTube](https://youtube.com/@Pro
 - Checkout the [current issues](https://github.com/ProdigalTechie/chess/issues) to see if you can help contribute to the project.
 - Simply create a branch off of the issue to begin working on it.
 
-![Branching](./chess/src/assets/github-images/Branching.png "Braching.png")
+![Branching](../chess/src/assets/github-images/Branching.png "Braching.png")
 
 ## Special Thanks to additional project resources
 
